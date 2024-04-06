@@ -1,0 +1,1 @@
+export const selectModalOnConform = ({app}) => app.modal.onConform
